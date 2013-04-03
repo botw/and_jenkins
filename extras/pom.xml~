@@ -42,6 +42,8 @@
             <modules>
                 <module>compatibility-v4</module>
                 <module>compatibility-v13</module>
+<!--                <module>analytics</module>
+                <module>admob</module> -->
             </modules>
         </profile>
     </profiles>
