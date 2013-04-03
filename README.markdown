@@ -1,3 +1,5 @@
+[![Build Status](https://jenkins-status-tool-url/project/PROJECT-NAME/status.png)](http://46.218.185.26:18080/jobs/Android%20maven)
+
 Maven Android SDK Deployer
 --------------------------
 
